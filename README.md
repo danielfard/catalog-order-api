@@ -15,7 +15,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio-nestjs.git
+   git clone https://github.com/danielfard/catalog-order-api
 
 2. Navega al directorio del proyecto:
 
